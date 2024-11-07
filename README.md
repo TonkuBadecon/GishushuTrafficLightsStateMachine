@@ -1,6 +1,4 @@
 # GishushuTrafficLightsStateMachine
-
-GISHUSHU TRAFFIC LIGHTS STATE MACHINE
 =====================================
 
 Overview:
