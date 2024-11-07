@@ -1,4 +1,4 @@
-# GishushuTrafficLightsStateMachine
+# Gishushu Traffic Lights State Machine
 =====================================
 
 Overview:
